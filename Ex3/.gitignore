@@ -1,0 +1,11 @@
+/.idea/
+
+# Python cache and virtual env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Outputs
+outputs/
+reports/

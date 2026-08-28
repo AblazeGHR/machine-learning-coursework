@@ -1,0 +1,4 @@
+model_a,model_b,agreement_rate,cohen_kappa
+Task1_RandomForest,Task1_sklearn_MLP,0.9185612487275195,0.9020362167375295
+Task1_RandomForest,Task2_CustomNN,0.9172039362063115,0.9003796989423929
+Task1_sklearn_MLP,Task2_CustomNN,0.9694604682728198,0.9632657843696141

@@ -1,0 +1,15 @@
+{
+  "n": 10000,
+  "mlp_mean_mse": 0.03022368997335434,
+  "mlp_median_mse": 0.027568921446800232,
+  "mlp_std_mse": 0.016362888738512993,
+  "cnn_mean_mse": 0.030284371227025986,
+  "cnn_median_mse": 0.02792547270655632,
+  "cnn_std_mse": 0.015355024486780167,
+  "diff_mean": 6.0681271861540154e-05,
+  "diff_median": 3.156624734401703e-05,
+  "diff_std": 0.007144493516534567,
+  "cnn_better_count": 4932,
+  "mlp_better_count": 5068,
+  "equal_count": 0
+}

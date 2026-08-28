@@ -1,0 +1,18 @@
+{
+  "device": "cpu",
+  "input_dim": 561,
+  "num_classes": 6,
+  "train_size": 5881,
+  "val_size": 1471,
+  "test_size": 2947,
+  "best_epoch": 11,
+  "best_val_loss": 0.051768133043229865,
+  "stopped_early": true,
+  "epochs_ran": 19,
+  "test_loss": 0.17660622237977697,
+  "test_accuracy": 0.9453681710213777,
+  "total_trainable_params": 177542,
+  "history_csv": "results\\task2_history.csv",
+  "loss_curve_png": "results\\task2_loss_curve.png",
+  "model_summary_md": "results\\task2_model_summary.md"
+}

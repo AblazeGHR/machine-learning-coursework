@@ -1,0 +1,18 @@
+# 大数据集（公开数据，下载方式见 README）
+A4/data/
+A5/data/
+
+# 课程 PDF（不入库）
+MIS110*.pdf
+
+# 待恢复目录（PyCharm Local History 恢复用，勿删）
+1/
+
+# Python / IDE 缓存
+.venv/
+venv/
+__pycache__/
+.idea/
+.vscode/
+*.pyc
+.DS_Store
